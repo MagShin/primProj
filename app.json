@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "atividaderene",
+    "slug": "atividaderene",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config":{
+        "googleMobileAdsAppId": {
+          "apiKey": "AIzaSyAPO5Ch_lbfUmHoKF3Oi15P7Ge6CZaO5gA"
+        }
+      }
+    
+    }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
